@@ -1,8 +1,7 @@
 # ⚔️ LEGAHO — The Ember Wanderer
 
 > *"To carry fire through darkness."*
-
-A 2D Java game built from scratch as a hands-on journey to learn the Java programming language.  
+Hello there ,my name is srujan and this is my own idea , its a 2D Java game built from scratch as a hands-on journey to learn the Java programming language.  
 Every phase of the game teaches a new set of Java concepts — no game engines, no shortcuts, just pure Java.
 
 ---
